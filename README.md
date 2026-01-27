@@ -1,2 +1,2 @@
-# Data-Analysis
-A comprehensive data analytics repository containing end-to-end analysis projects using Python, SQL, and visualization libraries. Includes data cleaning, exploratory data analysis (EDA), KPI calculations, and insightful visualizations designed for real-world business use cases.
+# nassau-candy-profitability-analysis
+End-to-end profitability and margin analysis for a candy distributor using Python and Power BI. Identified profit drivers, margin risks, factory efficiency gaps, and profit concentration through KPI engineering, outlier handling, and executive-focused dashboards.
