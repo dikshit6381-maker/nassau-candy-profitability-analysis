@@ -41,23 +41,23 @@ Export of Power BI–ready datasets
 # Key Visuals & Analysis
 # Profit Concentration (Pareto Analysis)
  
-<img src=images/profit_concentration.png.png />
+<img src=images/profit_concentration.png/>
 Shows cumulative profit %, highlighting dependency risk from top products.
 
 
- # Executive KPI Strip
+# Executive KPI Strip
  
-<img src=images/executive_kpi_strip.png.png/>
+<img src=images/executive_kpi_strip.png/>
 KPI overview including Total Sales, Total Profit, Avg Margin, and Dependency Level.
 
 # Cost vs Margin Diagnostics
  
-<img src=images/cost_margin_diagnostics.png.png/>
+<img src=images/cost_margin_diagnostics.png/>
 Identifies high-cost, low-margin products impacting profitability.
 
- # Factory Efficiency Comparison
+# Factory Efficiency Comparison
  
-<img src=images/factory_efficiency.png.png/>
+<img src=images/factory_efficiency.png/>
 Compares operational performance across factories.
 
 # Skills & Tools
