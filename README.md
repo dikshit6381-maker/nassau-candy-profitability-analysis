@@ -39,23 +39,23 @@ Factory and division-level efficiency analysis
 Export of Power BI–ready datasets
 
 Key Visuals & Analysis
-🔹 Profit Concentration (Pareto Analysis)
-<img src="images/pareto_profit.png" width="700"/>
+ Profit Concentration (Pareto Analysis)
+<img src="C:\Users\diksh\OneDrive\Pictures\Screenshots\Screenshot 2026-02-06 124101.png" />
 
 Shows cumulative profit %, highlighting dependency risk from top products.
 
-🔹 Executive KPI Strip
-<img src="images/kpi_strip.png" width="700"/>
+ Executive KPI Strip
+<img src="C:\Users\diksh\OneDrive\Pictures\Screenshots\Screenshot 2026-02-06 124706.png"/>
 
 KPI overview including Total Sales, Total Profit, Avg Margin, and Dependency Level.
 
-🔹 Cost vs Margin Diagnostics
-<img src="images/cost_vs_margin.png" width="700"/>
+ Cost vs Margin Diagnostics
+<img src="C:\Users\diksh\OneDrive\Pictures\Screenshots\Screenshot 2026-02-06 125507.png"/>
 
 Identifies high-cost, low-margin products impacting profitability.
 
-🔹 Factory Efficiency Comparison
-<img src="images/factory_efficiency.png" width="700"/>
+ Factory Efficiency Comparison
+<img src="C:\Users\diksh\OneDrive\Pictures\Screenshots\Screenshot 2026-02-06 125905.png"/>
 
 Compares operational performance across factories.
 
