@@ -14,7 +14,7 @@ Evaluate operational efficiency
 
 Make strategic portfolio decisions
 
-Methodology
+# Methodology
 
 Data cleaning and preprocessing using Python
 
@@ -38,24 +38,24 @@ Factory and division-level efficiency analysis
 
 Export of Power BI–ready datasets
 
-Key Visuals & Analysis
- Profit Concentration (Pareto Analysis)
+# Key Visuals & Analysis
+# Profit Concentration (Pareto Analysis)
  
 <img src=images/profit_concentration.png.png />
 Shows cumulative profit %, highlighting dependency risk from top products.
 
 
- Executive KPI Strip
+ # Executive KPI Strip
  
 <img src=images/executive_kpi_strip.png.png/>
 KPI overview including Total Sales, Total Profit, Avg Margin, and Dependency Level.
 
- Cost vs Margin Diagnostics
+# Cost vs Margin Diagnostics
  
 <img src=images/cost_margin_diagnostics.png.png/>
 Identifies high-cost, low-margin products impacting profitability.
 
- Factory Efficiency Comparison
+ # Factory Efficiency Comparison
  
 <img src=images/factory_efficiency.png.png/>
 Compares operational performance across factories.
