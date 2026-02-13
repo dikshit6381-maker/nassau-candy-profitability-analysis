@@ -98,8 +98,7 @@ Track KPIs continuously using executive dashboards
 
 # Outcome
 
-Delivered a business-ready analytics solution transforming raw data into actionable insights, suitable for Data Analyst / Business Analyst portfolios.
-
+Delivered a business-ready analytics solution transforming raw data into actionable insights.
 Tech Stack: Python | Power BI
 
 Author: Dikshit
